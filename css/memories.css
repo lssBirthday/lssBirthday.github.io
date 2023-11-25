@@ -1022,12 +1022,12 @@
 	.ly-txt14 {
 		text-indent:2em;
 		font-family: Microsoft YaHei;
-		font-size: 18px;
+		font-size: 22px;
 		font-color: #000;
 		position: absolute;
 		margin-left:30px;
 		margin-right:30px;
-		top: 12%;
+		top: 8%;
 		opacity: 1;
 		transition: all 13s;
 		height:0;
@@ -1534,7 +1534,7 @@
 	/* 盒子 */
 	.ly-box22 {
 		width: 30%;
-		height: 30%;
+		height: 40%;
 		border: 2px #CCC;
 		background-color: #fff;
 		background-color: rgba(255,255,255,0.6);
@@ -1616,7 +1616,7 @@
 		transition: all 10s;
 	}
 	.active .ly-box23{
-		height: 45%;
+		height: 35%;
 		transition-delay: 8s;
 	}
 	/*小三角*/
