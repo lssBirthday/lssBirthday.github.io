@@ -844,7 +844,7 @@
 @media screen and (max-aspect-ratio: 3/4) {
 	.ly-box11 {
 		width: 60%;
-		height: 25%;
+		height: 23%;
 		border: 2px #CCC;
 		background-color: #fff;
 		background-color: rgba(255,255,255,0.6);
@@ -874,7 +874,7 @@
 		border-radius: 8px;
 		position: absolute;
 		left: 23%;
-		top:52%;
+		top:40%;
 		overflow: hidden;
 		opacity: 0;
 		-webkit-transform: scale(0.5, 0.5);
@@ -1022,7 +1022,7 @@
 	.ly-txt14 {
 		text-indent:2em;
 		font-family: Microsoft YaHei;
-		font-size: 22px;
+		font-size: 24px;
 		font-color: #000;
 		position: absolute;
 		margin-left:30px;
@@ -1813,7 +1813,7 @@
 	/* 盒子 */
 	.ly-box31 {
 		width: 65%;
-		height: 60%;
+		height: 50%;
 		border: 2px #CCC;
 		background-color: #fff;
 		background-color: rgba(255,255,255,0.6);
@@ -1836,7 +1836,7 @@
 	/* 盒子 */
 	.ly-box32 {
 		width: 50%;
-		height: 30%;
+		height: 40%;
 		border: 2px #CCC;
 		background-color: #fff;
 		background-color: rgba(255,255,255,0.6);
